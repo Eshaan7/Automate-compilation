@@ -1,5 +1,5 @@
 # Automate-compilation
-## WHAT THE SCRIPT DOES:
+## What the script does: 
   1. goes into a directory(user inputs the directory path)
   2. Archive all files recursively to .tar and pipe them through gzip -9 to get
      best compression creating <>.tar.gz

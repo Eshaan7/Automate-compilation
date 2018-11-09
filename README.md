@@ -10,5 +10,6 @@
   Wrote it in python first because python makes everything easier, but the code got messy and there were alot of custom calls so it hit me that shell script will be a better option and it was..Win-win or lose-lose, that you decide.
 
 ## Notes
-  This is actually my first repo with python and bash code. Enjoy!
+ The script works best with text files. Even so much that a friend of mine converted 40 gigs to 100mb. <img src="https://image.slidesharecdn.com/codingsuperpowersupershort-140924145900-phpapp02/95/coding-superpower-1-638.jpg?cb=1411571210" height="20" width="20" align="middle">
+ P.S. This is actually my first repo with python and bash code. Enjoy!
     

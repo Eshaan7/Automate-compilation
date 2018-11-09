@@ -7,7 +7,7 @@
   4. Finally .tar #{compress ffs please} > .tar.gz  
    
 ## Why python as well as shell script ?
-  Wrote it in python first because python makes everything easier, but the code got messy and there were alot of custom calls so it hit me that shell script will be a better option and it was..Win-win or lose-lose, that you decide.
+  Wrote it in python first because python makes everything easier, but the code got messy and there were alot of system calls so it hit me that shell script will be a better option and it was..Win-win or lose-lose, that you decide.
 
 ## Notes
  The script works best with text files. Even so much that a friend of mine converted 40 gigs to 100mb. 

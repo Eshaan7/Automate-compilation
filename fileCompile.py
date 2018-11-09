@@ -24,7 +24,7 @@ os.system('rm file_names.txt')
 print lines
 os.system("touch `basename %(dir_name)s`.tar" % locals() )
 for name in lines:
-    os.system("tar -cv --recursively \"%(name)s\" | gzip -9 > \"%(name)s\".tar.gz" % locals()) #Step 2
+    os.system("tar -cv --recursion \"%(name)s\" | gzip -9 > \"%(name)s\".tar.gz" % locals()) #Step 2
     os.system("tar --append --remove-file --file=Desktop.tar \"%(name)s\".tar.gz " % locals()) #Step 3
 os.system("gzip -9 Desktop.tar > Desktop.tar.gz") #Step 4
 

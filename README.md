@@ -11,6 +11,6 @@
 
 ## Notes
  The script works best with text files. Even so much that a friend of mine converted 40 gigs to 100mb. 
- <img src="https://image.slidesharecdn.com/codingsuperpowersupershort-140924145900-phpapp02/95/coding-superpower-1-638.jpg?cb=1411571210" height="150" width="150" align="middle">
+ <p align="center"><img src="https://image.slidesharecdn.com/codingsuperpowersupershort-140924145900-phpapp02/95/coding-superpower-1-638.jpg?cb=1411571210" height="150" width="150" align="center"></p>
  P.S. This is actually my first repo with python and bash code. Enjoy!
     
